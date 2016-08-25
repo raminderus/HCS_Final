@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="789ba6d741d84fc886d81d9289ee0c2b" Name="Diagram1">
+        <EntityTypeShape EntityType="HCSModel.Appointment" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HCSModel.HealthCareProvider" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HCSModel.Note" Width="1.5" PointX="6" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HCSModel.NoteType" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HCSModel.Patient" Width="1.5" PointX="0.75" PointY="10" IsExpanded="true" />
+        <AssociationConnector Association="HCSModel.FK_Appointment_HealthCareProvider" ManuallyRouted="false" />
+        <AssociationConnector Association="HCSModel.FK_Appointment_Patient" ManuallyRouted="false" />
+        <AssociationConnector Association="HCSModel.FK_Note_HealthCareProvider" ManuallyRouted="false" />
+        <AssociationConnector Association="HCSModel.FK_Note_NoteType" ManuallyRouted="false" />
+        <AssociationConnector Association="HCSModel.FK_Note_Patient" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\Varman\HCS_Final\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Visual Studio Projects\Varman\HCS_Final\DataLayer\bin\Debug\DataLayer.dll
+D:\Visual Studio Projects\Varman\HCS_Final\DataLayer\bin\Debug\DataLayer.pdb
+D:\Visual Studio Projects\Varman\HCS_Final\DataLayer\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\Varman\HCS_Final\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\Varman\HCS_Final\DataLayer\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\Varman\HCS_Final\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\Varman\HCS_Final\DataLayer\obj\Debug\DataLayer.dll
+D:\Visual Studio Projects\Varman\HCS_Final\DataLayer\obj\Debug\DataLayer.pdb
